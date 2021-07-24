@@ -10,4 +10,3 @@ Agregado en el remoto
 Tareas 2M
 Tareas 2M
 
-Agregado <agrego texto en la misma línea> para revert
