@@ -16,3 +16,5 @@ Ticket1
 Ticket1
 Ticket1
 Agregado en el local
+
+Este cambio no se deshace
